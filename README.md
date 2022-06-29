@@ -31,7 +31,7 @@ _From the truth table equation using k-maps minimizing:_ Y = A.B or Y = A & B
 
 # Synthesis of AND Gate
 <p >
-  <div align="center" >
+  <div align="centre" height="540" width="960" >
  <img src="https://github.com/Kanishk-K-U/AND/blob/main/AND%20sy.png">
   </div>
 </p>
