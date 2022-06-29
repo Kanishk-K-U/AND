@@ -12,6 +12,7 @@ The output of the AND gate, a main logic gate, is equal to the product of its in
  <img src="https://github.com/Kanishk-K-U/AND/blob/main/AND.png" align="centre" height="540" width="960">
   </div>
 </p>
+
 # Design and Implementation
 
 <p>
