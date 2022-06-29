@@ -7,7 +7,11 @@ The output of the AND gate, a main logic gate, is equal to the product of its in
  <img src="https://i0.wp.com/technobyte.org/wp-content/uploads/2020/01/AND-gate.png?ssl=1">
   </div>
 </p>
-
+<p >
+  <div align="center" >
+ <img src="https://github.com/Kanishk-K-U/AND/blob/main/AND.png" align="centre" height="48" width="48">
+  </div>
+</p>
 # Design and Implementation
 
 <p>
@@ -27,6 +31,6 @@ _From the truth table equation using k-maps minimizing:_ Y = A.B or Y = A & B
 # Synthesis of AND Gate
 <p >
   <div align="center" >
- <img src="https://github.com/Kanishk-K-U/AND/blob/main/AND.png">
+ <img src="https://github.com/Kanishk-K-U/AND/blob/main/AND%20sy.png">
   </div>
 </p>
