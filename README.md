@@ -9,7 +9,7 @@ The output of the AND gate, a main logic gate, is equal to the product of its in
 </p>
 <p >
   <div align="center" >
- <img src="https://github.com/Kanishk-K-U/AND/blob/main/AND.png" align="centre" height="48" width="48">
+ <img src="https://github.com/Kanishk-K-U/AND/blob/main/AND.png" align="centre" height="500" width="500">
   </div>
 </p>
 # Design and Implementation
