@@ -1,0 +1,22 @@
+digraph "AND_2_behavioral_kanish_k_u" {
+label="AND_2_behavioral_kanish_k_u";
+rankdir="LR";
+remincross=true;
+n6 [ shape=octagon, label="B", color="black", fontcolor="black" ];
+n7 [ shape=octagon, label="A", color="black", fontcolor="black" ];
+n8 [ shape=octagon, label="Y", color="black", fontcolor="black" ];
+c9 [ shape=record, label="{{<p7> A|<p6> B}|$4\n$and|{<p8> Y}}" ];
+v0 [ label="1'1" ];
+c10 [ shape=record, label="{{<p7> A|<p6> B}|$3\n$eq|{<p8> Y}}" ];
+v1 [ label="1'1" ];
+c11 [ shape=record, label="{{<p7> A|<p6> B}|$2\n$eq|{<p8> Y}}" ];
+p2 [shape=box, style=rounded, label="PROC $1\nand.v:2.1-8.4"];
+c9:p8:e -> p2:w [color="black", label=""];
+c10:p8:e -> c9:p6:w [color="black", label=""];
+c11:p8:e -> c9:p7:w [color="black", label=""];
+n6:e -> c10:p7:w [color="black", label=""];
+n7:e -> c11:p7:w [color="black", label=""];
+p2:e -> n8:w [color="black", label=""];
+v0:e -> c10:p6:w [color="black", label=""];
+v1:e -> c11:p6:w [color="black", label=""];
+}
