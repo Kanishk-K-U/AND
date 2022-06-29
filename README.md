@@ -22,7 +22,7 @@ I used Verilog's behavioural modelling approach to create the AND logic gate. In
   </div>
 </p>
 
-_ From the truth table equation using k-maps minimizing:_
+_From the truth table equation using k-maps minimizing:_
 
 ##### either Y = A.B or Y = A & B
 
